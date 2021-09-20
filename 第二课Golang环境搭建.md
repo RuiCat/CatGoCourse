@@ -28,7 +28,7 @@ export PATH=${PATH}:$(cygpath -u ${GOROOT}\\bin):$(cygpath -u ${GOPATH}\\bin)
   * [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) 智能提示插件
   * 可选: [Go Asm](https://marketplace.visualstudio.com/items?itemName=quillaja.goasm) 用于Go汇编高亮
   
-## 配置 Go 设置]
+## 配置 Go 设置
 
 * > 打开文件: Msys2/opt/Data/WorkSpace/User/settings.json
 
