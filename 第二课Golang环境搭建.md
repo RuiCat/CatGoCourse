@@ -33,6 +33,7 @@ export PATH=${PATH}:$(cygpath -u ${GOROOT}\\bin):$(cygpath -u ${GOPATH}\\bin)
 * > 打开文件: Msys2/opt/Data/WorkSpace/User/settings.json
 
 1. 添加内容:
+    > 注: 修改配置后可能会让其重新下载插件选择确认即可
 
     ``` json
     "go.docsTool": "gogetdoc",

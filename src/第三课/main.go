@@ -2,7 +2,9 @@
 package main
 
 // import 引用库 fmt 库名
-import "fmt"
+import (
+	"fmt"
+)
 
 // func 定义函数 main 函数名
 func main() {
